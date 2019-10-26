@@ -1,1 +1,1 @@
-# j-begin
+# Jerry's Bignner Class 
