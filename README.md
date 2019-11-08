@@ -1,1 +1,2 @@
-# j-begin
+# j-begin.
+beginners code
